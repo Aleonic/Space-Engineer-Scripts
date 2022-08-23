@@ -25,6 +25,7 @@ private int SelectImage() {
   return result;
 }
 
+// Strings below contain pixel information.
 private string[] images = {
     // images[0]
     "\n"+
